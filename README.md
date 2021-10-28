@@ -26,7 +26,7 @@ The web application is hosted on: https://colloquy-app.netlify.app/
 
 ## Tech Stack
 
-**Frontend:** React, TailwindCSS
+**Frontend:** React, WebRTC, TailwindCSS
 
 **Backend:** Firebase(Authentication, Firestore and Cloud Storage)
 

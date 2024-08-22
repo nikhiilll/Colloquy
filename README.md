@@ -37,8 +37,6 @@ The web application is hosted on: https://colloquy-app.netlify.app/
 
 ![App Screenshot](https://nikhilprojects.s3.us-west-1.amazonaws.com/colloquy/screenshots/colloquy_incomingcall.png)
 
-![App Screenshot](https://nikhilprojects.s3.us-west-1.amazonaws.com/colloquy/screenshots/colloquy_videocall.png)
-
 ![App Screenshot](https://nikhilprojects.s3.us-west-1.amazonaws.com/colloquy/screenshots/colloquy_dashboard.png)
 
 ![App Screenshot](https://nikhilprojects.s3.us-west-1.amazonaws.com/colloquy/screenshots/colloquy_dashboard2.png)
